@@ -56,12 +56,13 @@ Welcome to my personal portfolio website, designed to showcase my skills, projec
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40"/>
   </a>
   <a href="https://www.sketch.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sketch_Logo.svg" alt="sketch" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Sketch_Logo.svg" alt="sketch" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
