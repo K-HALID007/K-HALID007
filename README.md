@@ -67,13 +67,18 @@ Welcome to my personal portfolio website, designed to showcase my skills, projec
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-halid007&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="40" height="40"/>
+  </a>
+  <a href="https://www.sketch.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sketch_Logo.svg" alt="sketch" width="40" height="40"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-halid007&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-halid007&" alt="GitHub Streak" /></p>
-
----
 
 ## 🌐 Live Website
 
