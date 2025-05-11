@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-halid007&label=Profile%20views&color=0e75b6&style=flat" alt="k-halid007" /> </p>
 
-- 🌱 I’ have completed mmy **Bachelors in.IT from Vidya Vikas College Affiliate by University of Mumbai**
+- 🌱 I’ have completed My **Bachelors in.IT from Vidya Vikas College Affiliate by University of Mumbai**
 
 - 📫 How to reach me **ks0903525@gmail.com**
 
