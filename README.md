@@ -1,13 +1,14 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=SQdrnHcfunUp3CIZMR-clLwQFjkIS9ShTlqTppgmlR0)]
+\[![MasterHead](https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647\&v=beta\&t=SQdrnHcfunUp3CIZMR-clLwQFjkIS9ShTlqTppgmlR0)]
+
 <h1 align="center">Hi 👋, I'm Khalid Majid Shaikh</h1>
-<h3 align="center">A passionate  Fullstack Developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/3d-cartoon-software-developer-generative-ai_644690-101538.jpg?w=740">
 
-<p align="left"> <img src="[https://www.istockphoto.com/en/vector/web-development-team-vector-concept-gm1979872053-558954277]" alt="k-halid007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-halid007&label=Profile%20views&color=0e75b6&style=flat" alt="k-halid007" /> </p>
 
-- 🌱 I’ have completed My **Bachelors in.IT from Vidya Vikas College Affiliate by University of Mumbai**
+* 🌱 I’ have completed My **Bachelors in.IT from Vidya Vikas College Affiliate by University of Mumbai**
 
-- 📫 How to reach me **ks0903525@gmail.com**
+* 📫 How to reach me **[ks0903525@gmail.com](mailto:ks0903525@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 # 💼 Personal Portfolio Website
@@ -52,28 +53,18 @@ Welcome to my personal portfolio website, designed to showcase my skills, projec
 ## 🎨 Design Tools
 
 <p align="left">
-  <!-- Figma -->
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
-
-<!-- Adobe XD -->
-<a href="https://www.adobe.com/products/xd.html" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobe xd" width="40" height="40"/>
-</a>
-
-<!-- Sketch -->
-<a href="https://www.sketch.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/>
-</a>
-
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40"/>
+  </a>
+  <a href="https://www.sketch.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Sketch_Logo.svg" alt="sketch" width="40" height="40"/>
+  </a>
 </p>
 
-
-
 ---
-
-
 
 ## 🌐 Live Website
 
@@ -84,5 +75,3 @@ Welcome to my personal portfolio website, designed to showcase my skills, projec
 ## 📬 Contact
 
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/khalid-shaikh-7392b4320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or check out my other repositories!
-
-
