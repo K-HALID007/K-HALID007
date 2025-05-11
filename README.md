@@ -52,15 +52,21 @@ Welcome to my personal portfolio website, designed to showcase my skills, projec
 ## 🎨 Design Tools
 
 <p align="left">
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40"/>
-  </a>
-  <a href="https://www.sketch.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Sketch_Logo.svg" alt="sketch" width="40" height="40"/>
-  </a>
+  <!-- Figma -->
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
+
+<!-- Adobe XD -->
+<a href="https://www.adobe.com/products/xd.html" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobe xd" width="40" height="40"/>
+</a>
+
+<!-- Sketch -->
+<a href="https://www.sketch.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/>
+</a>
+
 </p>
 
 
