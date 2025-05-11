@@ -88,5 +88,6 @@ Welcome to my personal portfolio website, designed to showcase my skills, projec
 
 ## 📬 Contact
 
-Feel free to connect with me via [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/khalid-shaikh-7392b4320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) or check out my other repositories!
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/khalid-shaikh-7392b4320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or check out my other repositories!
+
 
