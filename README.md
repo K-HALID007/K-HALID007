@@ -3,7 +3,7 @@
 <h3 align="center">A passionate  Fullstack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/3d-cartoon-software-developer-generative-ai_644690-101538.jpg?w=740">
 
-<p align="left"> <img src="(https://www.istockphoto.com/en/vector/web-development-team-vector-concept-gm1979872053-558954277)" alt="k-halid007" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=k-halid007&label=Profile%20views&color=0e75b6&style=flat]" alt="k-halid007" /> </p>
 
 - 🌱 I’ have completed My **Bachelors in.IT from Vidya Vikas College Affiliate by University of Mumbai**
 
