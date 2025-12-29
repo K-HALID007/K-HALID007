@@ -1,65 +1,112 @@
-\[![MasterHead](https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647\&v=beta\&t=SQdrnHcfunUp3CIZMR-clLwQFjkIS9ShTlqTppgmlR0)]
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=SQdrnHcfunUp3CIZMR-clLwQFjkIS9ShTlqTppgmlR0)
 
-<h1 align="center">Hi 👋, I'm Khalid Majid Shaikh</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/3d-cartoon-software-developer-generative-ai_644690-101538.jpg?w=740">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-halid007&label=Profile%20views&color=0e75b6&style=flat" alt="k-halid007" /> </p>
-
-* 🌱 I’ have completed My **Bachelors in.IT from Vidya Vikas College Affiliate by University of Mumbai**
-
-* 📫 How to reach me **[ks0903525@gmail.com](mailto:ks0903525@gmail.com)**
-
-<h3 align="left">Connect with me:</h3>
-# 💼 Personal Portfolio Website
-
-Welcome to my personal portfolio website, designed to showcase my skills, projects, and experience as a full stack developer. Built with **HTML**, **Tailwind CSS**, and deployed using **GitHub Pages**.
-
-## 🚀 Tech Stack
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-</p>
-
-
+<div align="center">
+  <h1>👋 Hi, I'm Khalid Majid Shaikh</h1>
+  <h3>Full-Stack Developer | Web Enthusiast | Problem Solver</h3>
+  <p>Building scalable web applications with modern technologies | Based in India 🇮🇳</p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-khalid7.vercel.app-blue?style=for-the-badge&logo=vercel)](https://khalid7.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaikhkhalid007/)
+  [![Email](https://img.shields.io/badge/Email-ks0903525@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:ks0903525@gmail.com)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=k-halid007&label=Profile%20views&color=0e75b6&style=flat-square)
+</div>
 
 ---
 
-## 🌐 Live Website
+## 🎓 About Me
 
-🔗 [View My Portfolio](https://khalid7.vercel.app/)
+I'm a passionate full-stack developer with a **Bachelor's degree in IT** from Vidya Vikas College (University of Mumbai). I specialize in building modern web applications using cutting-edge technologies. My journey in development is driven by curiosity, creativity, and a commitment to writing clean, maintainable code.
+
+- 🚀 Full-stack developer with expertise in frontend and backend technologies
+- 💡 Passionate about creating intuitive user experiences and scalable backend solutions
+- 🎯 Currently expanding my skills in advanced web development patterns
+- 🌱 Always learning and staying updated with the latest tech trends
 
 ---
 
-## 📬 Contact
+## 🛠️ Tech Stack
 
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/shaikhkhalid007/) or check out my other repositories!
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platform
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 💼 My Portfolio Website
+
+I've built a modern, responsive portfolio website to showcase my projects and skills. The website features a clean design with smooth animations and optimal performance.
+
+**Website URL:** [khalid7.vercel.app](https://khalid7.vercel.app/)
+
+### Portfolio Tech Stack
+- **Frontend:** HTML5, Tailwind CSS, React
+- **Deployment:** GitHub Pages & Vercel
+- **Features:** Fully responsive, modern UI, project showcase, contact form
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-halid007&layout=compact&theme=radical)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-halid007&show_icons=true&theme=radical)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+Feel free to explore my repositories to see my work in action. I regularly contribute to open-source projects and build full-stack applications.
+
+**Check out my [portfolio website](https://khalid7.vercel.app/) for a detailed showcase of my projects with live demos and source code.**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on exciting projects and connecting with fellow developers!
+
+<div align="center">
+
+[📧 Email](mailto:ks0903525@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/shaikhkhalid007/) • [🌐 Portfolio](https://khalid7.vercel.app/) • [💻 GitHub](https://github.com/k-halid007)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.freepik.com/premium-photo/3d-cartoon-software-developer-generative-ai_644690-101538.jpg?w=740" alt="Coding" width="300" style="border-radius: 10px;"/>
+  
+  <p><i>"Code is poetry written in a language computers understand."</i></p>
+</div>
+
+---
+
+<div align="center">
+  Made with ❤️ by Khalid Majid Shaikh
+</div>
