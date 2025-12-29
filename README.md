@@ -50,34 +50,16 @@ Welcome to my personal portfolio website, designed to showcase my skills, projec
   </a>
 </p>
 
-## 🎨 Design Tools
 
-<p align="left">
- <!-- Figma -->
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
-
-<!-- Adobe XD -->
-<a href="https://www.adobe.com/products/xd.html" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobe xd" width="40" height="40"/>
-</a>
-
-<!-- Sketch -->
-<a href="https://www.sketch.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/>
-</a>
-
-</p>
 
 ---
 
 ## 🌐 Live Website
 
-🔗 [View My Portfolio](https://k-halid007.github.io/portfolio/)
+🔗 [View My Portfolio](https://khalid7.vercel.app/)
 
 ---
 
 ## 📬 Contact
 
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/khalid-shaikh-7392b4320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or check out my other repositories!
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/shaikhkhalid007/) or check out my other repositories!
