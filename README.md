@@ -1,6 +1,6 @@
 # Khalid Majid Shaikh
 
-## Full-Stack Developer & DevOps Architect
+## Software Engineer | Full-Stack Developer
 
 Building scalable web applications with cutting-edge technologies | Based in India
 
