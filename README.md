@@ -77,18 +77,6 @@ I regularly build full-stack applications and contribute to open-source projects
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-halid007&layout=compact&theme=react&hide_border=true)](https://github.com/k-halid007)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-halid007&show_icons=true&theme=react&hide_border=true&count_private=true)](https://github.com/k-halid007)
-
-</div>
-
----
-
 ## Let's Connect
 
 I'm always interested in collaborating on exciting projects and connecting with fellow developers.
