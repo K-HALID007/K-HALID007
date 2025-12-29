@@ -71,18 +71,6 @@ I've built a modern, responsive portfolio website to showcase my projects and sk
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-halid007&layout=compact&theme=radical)
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-halid007&show_icons=true&theme=radical)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 Feel free to explore my repositories to see my work in action. I regularly contribute to open-source projects and build full-stack applications.
