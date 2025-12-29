@@ -91,9 +91,6 @@ I'm always interested in collaborating on exciting projects and connecting with 
 ---
 
 <div align="center">
-
 Made with passion by Khalid Majid Shaikh
-
-© 2024 | Full-Stack Developer | India
-
+© <script>document.write(new Date().getFullYear())</script> | Full-Stack Developer | India
 </div>
